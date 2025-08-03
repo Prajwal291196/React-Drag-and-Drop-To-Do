@@ -1,0 +1,19 @@
+.droppable-individual{
+    position: relative;
+    width: 96%;
+    height: 100vh;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid blue;
+}
+
+
+.droppable-box {
+    display: flex;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
